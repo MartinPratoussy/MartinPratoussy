@@ -2,21 +2,21 @@
 
 - 👋 Hi, I’m Martin
 - 👀 I’m interested in software development, video games programming and cybersecurity.
-- 🔭 I practice my current job as an embedded software engineer apprentice at [General Electric Grid Solutions](https://www.gegridsolutions.com/).
-- 🌱 I’m currently learning computer science and cybersecurity at CPE Lyon engineering school.
+- 🔭 I practice my current job as an embedded software engineer at [GE Vernova](https://www.gevernova.com/).
+- 🌱 I have a master degree in computer science and cybersecurity at [CPE Lyon](https://www.cpe.fr/formations/ics-presentation-de-la-formation/) engineering school.
 - 📄 Know my experiences at my LinkedIn profile [here](https://www.linkedin.com/in/martin-pratoussy-9a43b31b2/).
-- 📫 How to reach me: martin.pratoussy@cpe.fr
+- 📫 How to reach me: martin.pratoussy@gmail.com
 
 <h3 align="left">Here's my favourite languages:</h3>
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> 
-  </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> 
   </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> 
+  </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="csharp" width="30" height="30"/> 
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> 
